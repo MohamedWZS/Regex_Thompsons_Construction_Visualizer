@@ -1,4 +1,4 @@
-# 👋 Welcome to Regex_Thompson's_NFA_Visualizer
+# 👋 Welcome to Regex_Thompson's_Construction_NFA_Visualizer
 Compiler Requirement, a python script to visulize the regex NFA statemachine
 
 Setting the environment 🛠
