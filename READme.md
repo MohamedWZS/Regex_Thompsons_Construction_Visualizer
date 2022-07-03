@@ -30,7 +30,7 @@ git version 2.28.0.windows.1
 
 ```console
 $ mkdir Regex_Thompsons's_NFA_Visualizer && cd Regex_Thompsons's_NFA_Visualizer 
-$ https://github.com/MohamedWZS/Regex_Thompsons_Construction_Visualizer.git
+$ git clone https://github.com/MohamedWZS/Regex_Thompsons_Construction_Visualizer.git
 $ python -m venv venv
 $ venv\Scripts\activate.bat
 $ pip install -r MPLL/requirements.txt
