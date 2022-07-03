@@ -33,7 +33,7 @@ $ mkdir Regex_Thompsons's_NFA_Visualizer && cd Regex_Thompsons's_NFA_Visualizer
 $ git clone https://github.com/MohamedWZS/Regex_Thompsons_Construction_Visualizer.git
 $ python -m venv venv
 $ venv\Scripts\activate.bat
-$ pip install -r MPLL/requirements.txt
+$ pip install -r ./requirements.txt
 ```
 
 #### 4. excute the following commands in your terminal to run 
